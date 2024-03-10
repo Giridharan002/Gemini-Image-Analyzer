@@ -38,3 +38,5 @@ streamlit run app.py
 Replace app.py with the name of your Python script. This will start the Streamlit server and open the application in your default web browser.
 
 Now, you should be able to interact with the application through your web browser. Simply enter your input prompt, upload an image, and click on "Tell me about the image" to generate a response based on the input image and prompt.
+#
+# Create the repo
